@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello, I'm Abdi Kebede</h1>
-<h3 align="center">🚀 Full-Stack Developer | Crafting Digital Experiences</h3>
+<h3 align="center">🚀 Full-Stack Developer | Crafting Digital Experiences|AI Engineer
+</h3>
 
 <p align="center">
   <a href="https://github.com/Abdiikebede?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
